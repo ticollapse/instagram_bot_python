@@ -1,0 +1,10 @@
+{
+    "win64_geckodriver_v0.29.1_for_1 caractere:12": {
+        "timestamp": "24/05/2021",
+        "binary_path": ".\\drivers\\geckodriver\\win64\\v0.29.1\\geckodriver.exe"
+    },
+    "win64_geckodriver_v0.29.1_for_88.0.1": {
+        "timestamp": "24/05/2021",
+        "binary_path": ".\\drivers\\geckodriver\\win64\\v0.29.1\\geckodriver.exe"
+    }
+}
